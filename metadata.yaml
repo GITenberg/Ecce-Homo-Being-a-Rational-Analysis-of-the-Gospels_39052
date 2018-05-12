@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2420
     wikipedia: http://en.wikipedia.org/wiki/Baron_d'Holbach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39052#Ecce-Homo-Being-a-Rational-Analysis-of-the-Gospels
 gutenberg_issued: '2012-03-04'
 gutenberg_type: Text
 identifiers:
